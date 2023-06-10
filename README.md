@@ -1,2 +1,2 @@
-# -Machine-learning-kaggleDatasets
+# Machine-learning-kaggleDatasets
 Solving kaggle datasets with pytorch
